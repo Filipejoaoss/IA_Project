@@ -1,0 +1,27 @@
+
+
+Population size:400
+Max generations:25
+Selection:Tournament(2)
+Recombination:TODO
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 40 22 48 47 13 7 45 46 44 19 50 28 33 25 42 35 23 49 51 16 11 21 34 38 31 1 43 41 39 15 24 17 36 9 37 12 20 4 18 29 26 10 6 5 14 32 0 8 27 30 3 2 
+Genome Tamanho: 52
+Fitness: 79.2
+Tamanho máximo superficie :29
+Número de cortes: 280
+Material: 
+10
+26
+B o N N N T T T | y X | X V V V | n n M M M M G G | 
+o o o N A T T y y y X X X V | V n n n Y Y a a G G | 
+o o H H u u u y Z Z b b L i i f f n Y Y Y a a F e e 
+W W H t t t u c Z q b q L | i f f P P P U U U F e e 
+W W W t u u u c Z | q b L i i f p I I P C U U F | | 
+w w w t t t c c | q x q L m m p p p I k C | S O O O 
+w v w v s s s h h j x x x m m m p p k k S S S O | | 
+w v w v s | s h h j j z x z m r r r k k l d | g g | 
+R v v v s s s Q h j j z z z K r | r J l l l d g | | 
+R R R E E E Q Q Q D D | z K K r r r J J l d d g g | 

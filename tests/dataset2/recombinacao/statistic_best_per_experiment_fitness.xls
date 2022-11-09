@@ -1,0 +1,16 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+300	100	Tournament(2)	PMX	0.1	Insert	0.25		77.2	21
+300	100	Tournament(2)	PMX	0.4	Insert	0.25		75.4	15
+300	100	Tournament(2)	PMX	0.7	Insert	0.25		79.4	1
+300	100	Tournament(2)	PMX	0.8	Insert	0.25		80.0	33
+300	100	Tournament(2)	PMX	0.9	Insert	0.25		80.6	11
+300	100	Tournament(2)	TODO	0.1	Insert	0.25		75.60000000000001	6
+300	100	Tournament(2)	TODO	0.4	Insert	0.25		75.4	4
+300	100	Tournament(2)	TODO	0.7	Insert	0.25		75.4	41
+300	100	Tournament(2)	TODO	0.8	Insert	0.25		75.60000000000001	26
+300	100	Tournament(2)	TODO	0.9	Insert	0.25		75.2	19
+300	100	Tournament(2)	Recobination Cycle	0.1	Insert	0.25		77.2	37
+300	100	Tournament(2)	Recobination Cycle	0.4	Insert	0.25		75.60000000000001	40
+300	100	Tournament(2)	Recobination Cycle	0.7	Insert	0.25		76.4	44
+300	100	Tournament(2)	Recobination Cycle	0.8	Insert	0.25		76.4	30
+300	100	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		76.4	24

@@ -1,0 +1,79 @@
+
+
+Population size:300
+Max generations:100
+Selection:Tournament(5)
+Recombination:TODO
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 33 36 8 49 21 3 16 43 38 24 13 32 35 42 15 40 31 27 1 37 51 22 30 47 39 20 17 28 19 48 2 50 10 44 45 46 6 12 14 41 5 0 18 29 25 23 7 9 11 34 26 4 
+Genome Tamanho: 52
+Fitness: 75.60000000000001
+Tamanho máximo superficie :28
+Número de cortes: 266
+Material: 
+10
+25
+h h V V V g g b b f f | U U U T T T u u u X | X L 
+h h V Q V g q b q f f e e U U T T t t t u X X X L 
+B h Q Q Q g g q b f l e e w w w F t u u u p | | L 
+A k r r r j q C q l l l v w v w F t t t p p p | L 
+k k r | r j j C o | l K v w v w F y G G d p p i i 
+k k r r r j j o o o K K v v v y y y G G | d H H i 
+I I m m N N N o o z | z E E E y M M M M d d H i i 
+x I m m m N P P P z z z n n c s s s O O O Z Z a a 
+x x x m Y Y W W P R z n n n c s | s O | S Z J a a 
+D D x Y Y Y W W W R R R n c c s s s S S S Z J J | 
+
+Population size:300
+Max generations:100
+Selection:Tournament(7)
+Recombination:TODO
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 23 48 47 38 29 43 7 34 24 50 45 21 15 51 11 30 9 40 27 42 25 6 41 22 36 14 32 13 31 39 5 2 4 49 12 33 19 28 35 44 18 0 20 17 1 37 46 16 26 10 3 8 
+Genome Tamanho: 52
+Fitness: 77.2
+Tamanho máximo superficie :28
+Número de cortes: 274
+Material: 
+10
+26
+X A X m m i i V V V b b O O O k f f h h j U U U I I 
+X X X m m m i V K V b q O q k k f f h h j j U U l I 
+w w w d m i i K K e e b q | k k f | | h j j | l l l 
+w L w B d C t t t e e q p q g g n n T T T s s s l | 
+w L w d d C t D D J | p p p g n n n T T S s | s | | 
+v L v r r r t t t J J o p p g g n x S S S s s s | | 
+v L v r | r P P P | o o o N N N F x x x c R u u u | 
+v v v r r r y z P z o o Z Z N | F a a x c R R R u | 
+H H Y Y y y y z z z G G Z W W | F a a c c Q u u u | 
+H Y Y Y y E E E z | G G Z W W W M M M M Q Q Q | | | 
+
+Population size:300
+Max generations:100
+Selection:Tournament(10)
+Recombination:TODO
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 20 49 32 21 41 11 35 18 38 39 42 43 22 27 46 13 1 47 34 33 16 50 51 23 14 17 7 24 44 36 25 26 31 30 37 6 5 19 45 15 28 8 9 29 48 12 40 2 0 10 4 3 
+Genome Tamanho: 52
+Fitness: 75.80000000000001
+Tamanho máximo superficie :27
+Número de cortes: 271
+Material: 
+10
+26
+U U U L m m q A q u u u h h R P P P Z Z l | c w w w 
+x U U L m m m q E E E u h h R R R P Z l l l c w | w 
+x x x L C m q F q u u u | h y H H k Z | l c c w o w 
+g g x L C n n F b b i i y y y H k k f f T T T o o o 
+g I I j n n n F b D D i y O O O k k f f T T d o o | 
+g g I j j n r r r b i i z O z s s s f | t t t d | | 
+V V V j j S r | r v | v z z z s | s e e t | d d | | 
+V p V S S S r r r v | v X z X s s s e e t t t K | | 
+p p p W W N N N Q v v v X X X Y Y a a G G J K K | | 
+B p p W W W N Q Q Q M M M M Y Y Y a a G G J J | | | 

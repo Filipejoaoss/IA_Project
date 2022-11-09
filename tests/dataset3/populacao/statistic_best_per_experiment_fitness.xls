@@ -1,0 +1,17 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+50	25	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		101.0	7
+50	50	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		99.80000000000001	9
+50	100	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		98.6	33
+50	200	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		97.0	33
+100	25	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		100.80000000000001	2
+100	50	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		99.0	39
+100	100	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		95.4	42
+100	200	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		95.4	42
+200	25	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		100.2	39
+200	50	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		98.80000000000001	35
+200	100	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		96.80000000000001	35
+200	200	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		94.80000000000001	25
+400	25	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		100.2	39
+400	50	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		99.6	33
+400	100	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		96.80000000000001	12
+400	200	Tournament(2)	Recobination Cycle	0.9	Insert	0.25		94.6	13

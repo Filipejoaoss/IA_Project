@@ -1,0 +1,4 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+300	100	Tournament(5)	TODO	0.9	Insert	0.25		75.60000000000001	34
+300	100	Tournament(7)	TODO	0.9	Insert	0.25		77.2	12
+300	100	Tournament(10)	TODO	0.9	Insert	0.25		75.80000000000001	21

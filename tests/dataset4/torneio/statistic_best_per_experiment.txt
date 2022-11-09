@@ -1,0 +1,70 @@
+
+
+Population size:200
+Max generations:200
+Selection:Tournament(5)
+Recombination:PMX
+Recombination prob.: 0.7
+Mutation:Insert
+Mutation prob.: 0.05
+Genome: 4 14 2 1 26 18 6 22 13 21 9 24 8 7 17 3 25 16 12 19 0 27 20 23 10 11 15 28 5 
+Genome Tamanho: 29
+Fitness: 71.6
+Tamanho máximo superficie :37
+Número de cortes: 210
+Material: 
+7
+34
+E E E E E E S S | W V V R R R R R | M | | | J J | | | Q Q X P P P P 
+E B B A A C S S | W c V V | R R R | M | | J J Z Z Q Q Q Q X | F F | 
+O O B B B C G G W W c c V V | | M M M M J J | | Z Q Q Q X X | F F | 
+a O O O B C G G W W c c | V V V V V M J J Z | | Z Q Q | X X | | F F 
+a H H O O C C W W I I N Y Y | V V V V J J Z Z Z Z b X X X X L L F F 
+a a H O O T C W N I N N Y Y V V V K K K J J b b b b b b b L L L L L 
+D a H H T T N N N N N N Y Y V V | K K K J J J U U U U U U U U | L L 
+
+Population size:200
+Max generations:200
+Selection:Tournament(7)
+Recombination:PMX
+Recombination prob.: 0.7
+Mutation:Insert
+Mutation prob.: 0.05
+Genome: 21 22 13 28 4 6 9 12 5 26 15 16 17 14 7 1 3 2 18 23 8 24 20 19 27 11 25 0 10 
+Genome Tamanho: 29
+Fitness: 70.8
+Tamanho máximo superficie :36
+Número de cortes: 210
+Material: 
+7
+34
+V V | E E E E E E N P P P P J J F F R R R R R | C Y Y | | L L | Z Z 
+c V V E | | N | N N W I I J J M F F O O R R R | C Y Y X L L L L L Z 
+c c V V N N N N N N W I J J | M | F F O O O H H C Y Y X | | Z L L Z 
+c c a V V V V V | W W J J M M M M F F Q Q O O H C C X X | | Z Z Z Z 
+G G a | | V V V V W W J J B B M | Q Q Q Q O O H H C X X | | | K K K 
+G G a a V V V T W W S S J J B B B Q Q Q | | | | X X X X | | b K K K 
+D A A a V V T T W | S S J J J | B Q Q U U U U U U U U b b b b b b b 
+
+Population size:200
+Max generations:200
+Selection:Tournament(9)
+Recombination:PMX
+Recombination prob.: 0.7
+Mutation:Insert
+Mutation prob.: 0.05
+Genome: 26 23 22 10 13 3 21 18 16 8 9 25 2 20 14 28 4 12 0 27 17 19 1 15 6 24 7 5 11 
+Genome Tamanho: 29
+Fitness: 71.2
+Tamanho máximo superficie :37
+Número de cortes: 208
+Material: 
+7
+35
+a S S X I I V V U U U U U U U U Q Q | J J O O | B B P P P P | L L | | 
+a S S X I W C V V R R R R R Q Q Q Q J J Z Z O O O B B B F F L L L L L 
+a a X X | W C | V V | R R R Q Q Q J J G G Z Y Y O O M B F F | | | L L 
+D a X X W W C A A V V V V V Q Q J J Z G G Z Y Y O O M H H F F | | | | 
+X X X X W W C C | N | V V V V c J J Z Z Z Z Y Y M M M M H F F | | | | 
+K K K W W | N C N N V V V T | c c J J | E E E E E E M b H H | | | | | 
+K K K W N N N N N N V V T T | c c J J J E | | | b b b b b b b | | | | 

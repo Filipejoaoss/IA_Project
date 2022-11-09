@@ -1,0 +1,73 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+200	200	Roulette wheel	PMX	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	PMX	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	TODO	0.9	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.5	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.8	Insert	0.05		73.0	39
+200	200	Roulette wheel	Recobination Cycle	0.9	Insert	0.05		73.0	39
+200	200	Tournament(2)	PMX	0.5	Insert	0.05		72.2	5
+200	200	Tournament(2)	PMX	0.8	Insert	0.05		72.2	24
+200	200	Tournament(2)	PMX	0.9	Insert	0.05		73.0	39
+200	200	Tournament(2)	TODO	0.5	Insert	0.05		71.60000000000001	6
+200	200	Tournament(2)	TODO	0.8	Insert	0.05		72.4	3
+200	200	Tournament(2)	TODO	0.9	Insert	0.05		72.60000000000001	46
+200	200	Tournament(2)	Recobination Cycle	0.5	Insert	0.05		71.4	21
+200	200	Tournament(2)	Recobination Cycle	0.8	Insert	0.05		73.0	15
+200	200	Tournament(2)	Recobination Cycle	0.9	Insert	0.05		73.0	11
+200	200	Tournament(4)	PMX	0.5	Insert	0.05		71.60000000000001	21
+200	200	Tournament(4)	PMX	0.8	Insert	0.05		71.4	21
+200	200	Tournament(4)	PMX	0.9	Insert	0.05		72.0	41
+200	200	Tournament(4)	TODO	0.5	Insert	0.05		71.2	21
+200	200	Tournament(4)	TODO	0.8	Insert	0.05		72.2	42
+200	200	Tournament(4)	TODO	0.9	Insert	0.05		71.4	23
+200	200	Tournament(4)	Recobination Cycle	0.5	Insert	0.05		71.2	21
+200	200	Tournament(4)	Recobination Cycle	0.8	Insert	0.05		71.2	21
+200	200	Tournament(4)	Recobination Cycle	0.9	Insert	0.05		71.4	12
+200	200	Tournament(6)	PMX	0.5	Insert	0.05		70.8	15
+200	200	Tournament(6)	PMX	0.8	Insert	0.05		71.2	21
+200	200	Tournament(6)	PMX	0.9	Insert	0.05		71.2	21
+200	200	Tournament(6)	TODO	0.5	Insert	0.05		71.80000000000001	36
+200	200	Tournament(6)	TODO	0.8	Insert	0.05		71.6	20
+200	200	Tournament(6)	TODO	0.9	Insert	0.05		71.4	42
+200	200	Tournament(6)	Recobination Cycle	0.5	Insert	0.05		71.2	21
+200	200	Tournament(6)	Recobination Cycle	0.8	Insert	0.05		71.2	21
+200	200	Tournament(6)	Recobination Cycle	0.9	Insert	0.05		72.2	21
+200	200	Tournament(8)	PMX	0.5	Insert	0.05		71.2	21
+200	200	Tournament(8)	PMX	0.8	Insert	0.05		71.2	21
+200	200	Tournament(8)	PMX	0.9	Insert	0.05		71.8	21
+200	200	Tournament(8)	TODO	0.5	Insert	0.05		71.8	21
+200	200	Tournament(8)	TODO	0.8	Insert	0.05		71.60000000000001	21
+200	200	Tournament(8)	TODO	0.9	Insert	0.05		71.6	16
+200	200	Tournament(8)	Recobination Cycle	0.5	Insert	0.05		71.2	21
+200	200	Tournament(8)	Recobination Cycle	0.8	Insert	0.05		71.60000000000001	21
+200	200	Tournament(8)	Recobination Cycle	0.9	Insert	0.05		71.2	21

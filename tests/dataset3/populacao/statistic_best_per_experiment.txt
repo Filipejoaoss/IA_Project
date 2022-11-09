@@ -1,0 +1,369 @@
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 22 42 14 50 38 0 18 10 11 32 33 39 36 9 37 40 29 16 51 3 41 26 44 20 19 45 25 2 31 49 7 1 46 34 28 23 12 30 43 15 48 6 47 27 21 5 13 24 8 35 17 4 
+Genome Tamanho: 52
+Fitness: 101.0
+Tamanho máximo superficie :48
+Número de cortes: 313
+Material: 
+7
+46
+W W W W W W K K K J J J n n Z Z o o t t z | z H H H H a a | i i G X X e e | | | w | | | | | 
+W A V q D D | m K J g g n n | Z | o t l z z z I I I a a T T i i G X X | e e e w w w b b | | 
+q q q q q q q m g g g g n n o Z Z o t l p z s s I a a U x T T T G c X X Y Y e e w b b b b b 
+O O O S | S m m g g g E E E o o o o l l p s s s a a | U x x x T G c X X Y Y e e v F | j b b 
+O O y S S S m m g g k k k k k k k k l l p p | d a a | U | u x c c c c r P P P v v F j j | | 
+y y y L m m m m h h h h h Q Q Q C l l | d p d d | a a U U u u M | c | r r P P v v F N R R | 
+y B L L L f f f f | h h h Q | Q C l d d d d d d | a a a U u u M M M | r r | | | N N N R R R 
+
+Population size:50
+Max generations:50
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 36 30 40 6 20 50 48 29 44 4 49 33 28 18 42 22 2 32 7 10 51 17 45 8 43 41 23 37 46 26 11 35 19 27 13 0 25 39 24 47 3 14 31 16 15 21 1 9 38 34 5 12 
+Genome Tamanho: 52
+Fitness: 99.80000000000001
+Tamanho máximo superficie :51
+Número de cortes: 295
+Material: 
+7
+44
+k k k k k k k k | y h h h h h c J J J g g R R I I I X X Y Y l O O O a a P P P n n Q Q Q 
+e e H H H H U y y y s s h h h c J g g g g R R R I p X X Y Y l O O a a b b P P n n Q | Q 
+G e e e o o U y w s s s L c c c c g g g | | | t t p | X X l l | a a b b b b b n n i i m 
+G C V e e o U w w w x L L L | c q g g K K K | t r p p X X l l a a T T | | b b | v i i m 
+G C o e e o U U w d x x x q q q q q q q z K z t r r p F l l u a a | T T T Z Z v v | m m 
+G A o o o o d U d d | S x S W W W W W W z z z j r r N F l | u u a a | M T | Z v v | m m 
+E E E B d d d d d d | S S S W D D f f f f z j j N N N F | | u u a a a M M M Z Z m m m m 
+
+Population size:50
+Max generations:100
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 51 40 22 42 33 12 50 6 36 17 21 49 19 43 18 20 3 28 45 23 47 25 37 29 32 44 14 41 26 27 9 38 30 1 46 4 8 48 16 0 15 5 2 39 7 34 35 24 10 31 11 13 
+Genome Tamanho: 52
+Fitness: 98.6
+Tamanho máximo superficie :50
+Número de cortes: 293
+Material: 
+7
+44
+z B z W W W W W W k k k k k k k k t t Z Z J J J | g g O O O | a a w | | e e K K K | L | 
+z z z W h h h h h x E E E U i i c t X X Z J l g g g g O O | a a w w w j m e e e K L L L 
+M z o o R R h h h x x x C U i i c t X X Z Z l g g g s s | a a b b w j j m Y Y e e | | N 
+M M M o R R R y G T T x C U c c c c p X X l l g g s s s a a b b b b b m m Y Y e e N N N 
+o D D o A y y y G r T T T U U F c v p X X l l I I I d u a a P P P b b m m Q Q Q n n | | 
+o o o o q y | | G r r S T S U F v v p p l l | d I d d u u a a P P m m m m Q | Q n n | | 
+V q q q q q q q G r r S S S | F v v | p l d d d d d d u u a a a H H H H f f f f n n | | 
+
+Population size:50
+Max generations:200
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 51 40 22 42 33 12 50 6 36 17 21 49 19 43 20 28 18 3 1 45 4 23 34 47 46 25 37 29 32 44 14 41 26 27 9 38 30 8 48 2 16 0 5 15 24 7 31 39 35 10 11 13 
+Genome Tamanho: 52
+Fitness: 97.0
+Tamanho máximo superficie :50
+Número de cortes: 285
+Material: 
+7
+43
+z B z W W W W W W k k k k k k k k t t Z Z J J J | g g O O O w | | a a Q Q Q e e K K K 
+z z z W h h h h h x E E E U i i c t X X Z J l g g g g O O w w w a a | Q L Q m e e e K 
+M z o o R R h h h x x x C U i i c t X X Z Z l g g g s s p | w a a b b L L L m n n e e 
+M M M o R R R y G T T x C U c c c c | X X l l g g s s s p | a a b b b b b m m n n e e 
+o D D o A y y y G r T T T U U F c v u X X l l I I I d | p p a a P P P b b m m n n N | 
+o o o o q y | | G r r S T S U F v v u u l l | d I d d Y Y p j a a P P m m m m N N N | 
+V q q q q q q q G r r S S S | F v v u u l d d d d d d Y Y j j a a a H H H H f f f f | 
+
+Population size:100
+Max generations:25
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 14 27 38 17 40 48 23 45 28 34 32 15 26 51 25 46 29 5 47 18 19 9 41 50 1 36 33 44 37 4 35 30 6 8 7 20 31 22 49 0 10 13 24 42 11 2 3 39 16 21 12 43 
+Genome Tamanho: 52
+Fitness: 100.80000000000001
+Tamanho máximo superficie :50
+Número de cortes: 304
+Material: 
+7
+45
+O O O w V t t i i o o X X z | z u E E E a a I I I d p | | | y K K K e e | | W W W W W W | 
+O O w w w t m i i j o X X z z z u u | a a | d I d d p | y y y N | K l e e e W n n M | | | 
+B b b w | t m o j j o c X X z | u u a a d d d d d d p p y N N N | | l G U e e n n M M M | 
+b b b b b m m o o o o c X X | g g a a Z Z C F | v T T p h h h h h l l G U e e n n | | r | 
+R R A b b m m D D c c c c g g g g a a | Z C F v v | T T T x h h h l l G U | Y Y Q Q Q r r 
+R R R m m m m P P P S c S g g g s s a a Z Z F v v J J J T x x x l l L G U U Y Y Q q Q r r 
+k k k k k k k k P P S S S g g s s s a a a H H H H J f f f f | x l L L L | U q q q q q q q 
+
+Population size:100
+Max generations:50
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 20 45 18 29 32 38 36 43 0 23 33 37 19 49 48 26 40 27 12 51 47 14 34 41 46 3 8 25 39 7 28 13 50 42 2 9 17 15 30 44 24 6 35 4 22 21 5 11 31 10 16 1 
+Genome Tamanho: 52
+Fitness: 99.0
+Tamanho máximo superficie :50
+Número de cortes: 295
+Material: 
+7
+45
+U t t V g g r o o C m X X h h h h h l z | z | a a | v p Z Z J J J c R R e e K K K G Q Q Q 
+U t g g g g r r o C m X X T T h h h l z z z a a | v v p | Z J | | c R R R e e e K G Q | Q 
+U t g g g o r r o m m B X X T T T l l F z a a b b v v p p Z Z c c c c f f f f e e G | | | 
+U U g g w o o o o m m M X X i i T l l F a a b b b b b u p n n Y Y c P P P | | e e G | | | 
+S U S w w w d m m m m M M M i i l l x F a a I I I b b u u n n Y Y y | P P s s W W W W W W 
+S S S d w d d k k k k k k k k N l j x x x a a I O O O u u n n y y y | q s s s W L | | | | 
+A d d d d d d D D H H H H N N N j j | | x a a a O O E E E | | y q q q q q q q L L L | | | 
+
+Population size:100
+Max generations:100
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 46 25 30 37 5 19 26 40 13 47 18 23 35 38 6 28 43 17 39 29 14 4 16 51 12 21 20 50 48 41 8 24 3 32 22 45 42 27 2 9 33 36 11 49 15 10 7 31 0 34 1 44 
+Genome Tamanho: 52
+Fitness: 95.4
+Tamanho máximo superficie :50
+Número de cortes: 277
+Material: 
+7
+42
+u e e E E E j l G r I I I a a | X X R R D D c Q Q Q | U J J J g g h h h h h x K K K 
+u u e e e j j l G r r I a a o o X X R R R | c Q z Q z U J g g g g b b h h h x x x K 
+u u V v e e l l G r r a a Y Y o p X X m c c c c z z z U | g g g b b b b b P P P x | 
+Z Z v v e e l l G C a a o Y Y o p X X m n n c w | z | U U g g H H H H b b L P P i i 
+F Z v v A l l T T C a a o o o o p p m m n n w w w d t t U y W W W W W W L L L | i i 
+F Z Z N S l S M T T T a a B O O O p m m n n d w d d t y y y W q k k k k k k k k s s 
+F N N N S S S M M M T a a a O O m m m m d d d d d d t y q q q q q q q f f f f s s s 
+
+Population size:100
+Max generations:200
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 46 25 30 37 5 19 26 40 13 47 18 23 35 38 6 28 43 17 39 29 14 4 16 51 12 21 20 50 48 41 8 24 3 32 22 45 42 27 2 9 33 36 11 49 15 10 7 31 0 34 1 44 
+Genome Tamanho: 52
+Fitness: 95.4
+Tamanho máximo superficie :50
+Número de cortes: 277
+Material: 
+7
+42
+u e e E E E j l G r I I I a a | X X R R D D c Q Q Q | U J J J g g h h h h h x K K K 
+u u e e e j j l G r r I a a o o X X R R R | c Q z Q z U J g g g g b b h h h x x x K 
+u u V v e e l l G r r a a Y Y o p X X m c c c c z z z U | g g g b b b b b P P P x | 
+Z Z v v e e l l G C a a o Y Y o p X X m n n c w | z | U U g g H H H H b b L P P i i 
+F Z v v A l l T T C a a o o o o p p m m n n w w w d t t U y W W W W W W L L L | i i 
+F Z Z N S l S M T T T a a B O O O p m m n n d w d d t y y y W q k k k k k k k k s s 
+F N N N S S S M M M T a a a O O m m m m d d d d d d t y q q q q q q q f f f f s s s 
+
+Population size:200
+Max generations:25
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 7 20 38 30 25 19 23 29 44 37 6 11 45 40 49 17 26 34 12 42 16 36 1 48 46 5 15 28 51 27 4 24 32 50 41 47 9 31 35 2 8 3 14 10 21 22 18 13 33 43 39 0 
+Genome Tamanho: 52
+Fitness: 100.2
+Tamanho máximo superficie :47
+Número de cortes: 313
+Material: 
+7
+47
+H H H H T T D D X X A s s l | x | | Q Q Q | | a a | u I I I c | b b | | p J J J h h h h h n n 
+U t t e e T T T X X s s s l | x x x Q w Q | a a j | u u I | c b b b b b p J f f f f h h h n n 
+U t C m e e e T G X X | l l | o o x w w w a a j j q u u c c c c | y b b p p O O O | N | r n n 
+U t C m Z Z e e G X X | l l i i o R R w a a q q q q q q q | c y y y | g g p O O N N N | r r | 
+U U m m F Z e e G V d l l o i i o R R R a a k k k k k k k k z y z g g g g v W W W W W W r r | 
+B U m m F Z Z d G d d l L o o o o M K K K a a P P P Y Y | | z z z g g g v v W S | S | | | | | 
+m m m m F d d d d d d L L L E E E M M M K a a a P P Y Y | | | z | g g | v v | S S S | | | | | 
+
+Population size:200
+Max generations:50
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 19 20 34 26 47 27 40 18 17 28 49 37 44 29 41 16 51 2 23 32 48 30 42 14 33 10 7 39 45 24 36 43 12 9 1 46 50 38 8 22 6 3 35 0 21 25 4 31 5 11 13 15 
+Genome Tamanho: 52
+Fitness: 98.80000000000001
+Tamanho máximo superficie :50
+Número de cortes: 294
+Material: 
+7
+44
+T T K K K A a a w o o R R | O O O p Q Q Q J J J g g I I I M | | t t | u | | W W W W W W 
+U T T T K a a w w w o R R R O O l p Q | Q J g g g g | I q M M M t r | u u m W Z Z | | N 
+U i i T a a v o w V o c x E E E l p p | X X g g g q q q q q q q t r r u u m G F Z N N N 
+U i i a a v v o o o o c x x x l l z p z X X g g e e h h h h h n n r r y m m G F Z Z | | 
+U U B a a v v b b c c c c | x l l z z z d X X Y Y e e e h h h n n y y y m m G F L P P P 
+S U S C a a b b b b b c s s l l | d z d d X X Y Y | j e e | | n n y m m m m G L L L P P 
+S S S C a a a D D b b s s s l d d d d d d H H H H j j e e k k k k k k k k f f f f | | | 
+
+Population size:200
+Max generations:100
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 19 20 34 26 47 27 40 18 17 28 49 37 44 29 1 41 16 48 51 2 23 32 8 7 42 14 30 38 45 33 24 10 43 39 12 36 9 25 50 22 6 11 21 3 35 0 5 4 31 46 13 15 
+Genome Tamanho: 52
+Fitness: 96.80000000000001
+Tamanho máximo superficie :50
+Número de cortes: 284
+Material: 
+7
+43
+T T B I I I a a w o o R R H H H H p Q Q Q J J J g g e e h h h h h M | Z Z W W W W W W 
+U T T T I a a w w w o R R R Y Y l p Q | Q J g g g g j e e e h h h M M M Z W G f f f f 
+U i i T a a v o w A o c x | Y Y l p p | X X g g g j j t t e e m K K K | Z Z G u P P P 
+U i i a a v v o o o o c x x x l l z p z X X g g O O O t r e e m n n K | y F G u u P P 
+U U V a a v v b b c c c c | x l l z z z d X X | O O L t r r m m n n y y y F G u u | | 
+S U S C a a b b b b b c s s l l | d z d d X X | q L L L r r m m n n y | | F E E E | N 
+S S S C a a a D D b b s s s l d d d d d d q q q q q q q m m m m k k k k k k k k N N N 
+
+Population size:200
+Max generations:200
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 22 37 50 32 29 40 46 20 16 18 43 6 19 49 26 27 10 15 45 34 38 30 0 24 41 44 48 33 13 28 51 17 23 5 11 25 36 12 35 9 8 7 1 21 3 39 42 31 14 2 47 4 
+Genome Tamanho: 52
+Fitness: 94.80000000000001
+Tamanho máximo superficie :50
+Número de cortes: 274
+Material: 
+7
+42
+W W W W W W g g u o o U r T T K K K | a a s s | e e h h h h h F X X k k k k k k k k 
+W A l G g g g g u u o U r r T T T K a a s s s N m e e e h h h F X X I I I n n O O O 
+t t l G g g g o u u o U r r Y Y T a a b b N N N m p C e e c z F z X X I | n n O O v 
+t l l G g g w o o o o U U x Y Y a a b b b b b m m p C e e c z z z X X | | n n | v v 
+t l l G y w w w d Q Q Q U x x x a a P P P b b m m p p c c c c z Z Z J J J | q | v v 
+l l y y y d w d d Q S Q S i i x j a a P P m m m m L p R R c M D D Z J q q q q q q q 
+l B y d d d d d d V S S S i i j j a a a H H H H L L L R R R M M M Z Z f f f f E E E 
+
+Population size:400
+Max generations:25
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 7 20 38 30 25 19 23 29 44 37 6 11 45 40 49 17 26 34 12 42 16 36 1 48 46 5 15 28 51 27 4 24 32 50 41 47 9 31 35 2 8 3 14 10 21 22 18 13 33 43 39 0 
+Genome Tamanho: 52
+Fitness: 100.2
+Tamanho máximo superficie :47
+Número de cortes: 313
+Material: 
+7
+47
+H H H H T T D D X X A s s l | x | | Q Q Q | | a a | u I I I c | b b | | p J J J h h h h h n n 
+U t t e e T T T X X s s s l | x x x Q w Q | a a j | u u I | c b b b b b p J f f f f h h h n n 
+U t C m e e e T G X X | l l | o o x w w w a a j j q u u c c c c | y b b p p O O O | N | r n n 
+U t C m Z Z e e G X X | l l i i o R R w a a q q q q q q q | c y y y | g g p O O N N N | r r | 
+U U m m F Z e e G V d l l o i i o R R R a a k k k k k k k k z y z g g g g v W W W W W W r r | 
+B U m m F Z Z d G d d l L o o o o M K K K a a P P P Y Y | | z z z g g g v v W S | S | | | | | 
+m m m m F d d d d d d L L L E E E M M M K a a a P P Y Y | | | z | g g | v v | S S S | | | | | 
+
+Population size:400
+Max generations:50
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 30 28 46 37 12 38 41 33 29 27 20 25 26 51 39 42 40 6 44 36 2 15 7 0 34 32 8 18 16 48 50 47 13 23 43 10 22 1 14 45 35 5 11 21 9 24 3 17 49 19 4 31 
+Genome Tamanho: 52
+Fitness: 99.6
+Tamanho máximo superficie :50
+Número de cortes: 298
+Material: 
+7
+45
+e e B P P P l | p | s s I I I d G U Z Z O O O a a n n k k k k k k k k X X W W W W W W | | 
+u e e e P P l | p s s s d I d d G U | Z O O a a j n n J J J g g | | y X X W Y Y T T | | | 
+u u c e e l l m p p d d d d d d G U | Z Z a a j j n n J g g g g y y y N X X Y Y | T T T | 
+u u c e e l l m | p H H H H b b G U U F a a z | z r o o g g g w y N N N X X | x E E E T | 
+c c c c l l m m h h h h h b b b b b U F a a z z z r r o g g w w w v K K K t t x x x | | | 
+M A c C l V m m i i h h h q D D b b S F S a a z o r r o Q Q Q w v v | L K t R R | x | | | 
+M M M C m m m m i i q q q q q q q | S S S a a a o o o o Q | Q | v v L L L t R R R f f f f 
+
+Population size:400
+Max generations:100
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 16 37 43 30 32 33 26 49 40 27 29 18 51 14 20 48 47 41 11 23 4 46 28 15 36 13 38 7 25 42 1 39 17 22 6 0 19 5 50 44 10 24 21 45 31 8 34 3 2 12 9 35 
+Genome Tamanho: 52
+Fitness: 96.80000000000001
+Tamanho máximo superficie :50
+Número de cortes: 284
+Material: 
+7
+43
+Q Q Q l e e h h h h h O O O a a P P P I I I d U p X X | | N n n Z Z W W W W W W G t t 
+Q v Q l x e e e h h h O O a a o o P P d I d d U p X X N N N n n m Z W J J J s s G t | 
+v v l l x x x e e E E E a a Y Y o d d d d d d U p p X X c | n n m Z Z J q s s s G t | 
+v v l l A w x e e g g a a o Y Y o K K K z | z U U p X X c | | m m q q q q q q q G | y 
+B l l r w w w g g g g a a o o o o b b K z z z u U M c c c c | m m R R T T | | F y y y 
+S l S r r w C g g g L | a a D D b b b b b z j u u M M M c m m m m R R R T T T F y i i 
+S S S r r V C g g L L L a a a H H H H b b j j u u k k k k k k k k f f f f | T F | i i 
+
+Population size:400
+Max generations:200
+Selection:Tournament(2)
+Recombination:Recobination Cycle
+Recombination prob.: 0.9
+Mutation:Insert
+Mutation prob.: 0.25
+Genome: 22 41 39 38 30 42 40 50 6 25 28 23 18 37 1 17 19 26 20 43 12 51 9 2 27 32 46 47 33 36 44 8 49 29 24 16 0 15 45 7 14 48 35 34 31 13 11 10 4 3 21 5 
+Genome Tamanho: 52
+Fitness: 94.6
+Tamanho máximo superficie :50
+Número de cortes: 273
+Material: 
+7
+42
+W W W W W W J J J y o o G X X Y Y l U r I I I a a P P P u h h h h h i i t t w K K K 
+W n n e e A J y y y j o G X X Y Y l U r r I a a b b P P u u x h h h i i t w w w L K 
+p n n m e e e y o j j o G c X X l l U r r a a b b b b b u u x x x Q Q Q t d w L L L 
+p n n m Z Z e e o o o o G c X X l l U U a a z | z | b b g g | | x Q d Q d d f f f f 
+p p m m C Z e e S V S c c c c l l T T U a a z z z v g g g g s s d d d d d d | | | F 
+B p m m C Z Z q S S S R R c M l D D T T T a a z v v g g g s s s H H H H O O O | N F 
+m m m m q q q q q q q R R R M M M E E E T a a a v v g g k k k k k k k k O O N N N F 

@@ -1,0 +1,31 @@
+Runs: 50
+
+Population_size: 300
+
+Max_generations: 100
+
+//--------------------------------
+
+Selection: tournament
+
+Tournament_size: 8
+
+//--------------------------------
+
+Recombination: pmx, oneCut, cycle
+
+Recombination_probability: 0.1, 0.4, 0.7, 0.8, 0.9
+
+//--------------------------------
+
+Mutation: swap
+
+Mutation_probability: 0.25
+//--------------------------------
+
+Problem_file: ..\Problema1.txt
+
+//--------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage
